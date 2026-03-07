@@ -139,3 +139,40 @@ int main(){
     
     return 0;
 }
+
+//================================================================================================
+
+// OUPUT:
+
+/*
+5 5 5 
+2 7 1 
+
+a b c d e f g 
+
+Element at position 3: 5
+Element at position 2: 1
+
+After updation,
+Element at position 2: 8
+
+Size of vc: 4
+
+a e i o u 
+
+After deletion: 
+a i o 
+
+vector is empty
+vector is not empty, 1st element is: 1
+
+Traversing 2D vector using index-based loop:
+1 2 3 
+4 5 6 
+7 8 9 
+
+element at 2nd row, 4th colm: 0
+
+=== Code Execution Successful ===
+
+*/
