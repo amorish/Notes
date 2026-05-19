@@ -15,7 +15,7 @@ int sum(int a, int b) {
 
 
 // ============================================================
-//  STRING  (container — image: "What to Cover")
+//  STRING  
 // ============================================================
 
 void explainString() {
